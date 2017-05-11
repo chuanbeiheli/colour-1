@@ -1,0 +1,65 @@
+/* Diese Regel nicht verändern! */
+div {
+  background-color: black;
+  position: absolute; }
+
+/* Deine Parameter: */
+$universal: 15%;
+
+/* Ab hier deine Regeln :-) */
+.el-1 {
+  top:    $universal;
+  bottom: $universal;
+  left:   $universal*2.15;
+  right:  $universal*2.15;
+}
+
+.el-2{
+  background-color: white;
+  top:    $universal*1.2;
+  bottom: $universal*1.5;
+  left:   $universal*2.5;
+  right:  $universal*2.26;
+}
+.el-3{
+  background-color: 	#404040;
+  top:    $universal*1.4;
+  bottom: $universal*1.9;
+  left:   $universal*2.7;
+  right:  $universal*2.3;
+}
+.el-4{
+  background-color: white;
+  top:    $universal*1.6;
+  bottom: $universal*2.3;
+  left:   $universal*2.9;
+  right:  $universal*2.35;
+}
+.el-5{
+  background-color: #808080;
+  top:    $universal*1.9;
+  bottom: $universal*2.7;
+  left:   $universal*3.1;
+  right:  $universal*2.4;
+}
+.el-6{
+  background-color: white;
+  top:    $universal*2.15;
+  bottom: $universal*3.1;
+  left:   $universal*3.3;
+  right:  $universal*2.46;
+}
+.el-7{
+  background-color: #C0C0C0;
+  top:    $universal*2.4;
+  bottom: $universal*3.5;
+  left:   $universal*3.5;
+  right:  $universal*2.5;
+}
+.el-8{
+  background-color: white;
+  top:    $universal*2.65;
+  bottom: $universal*3.8;
+  left:   $universal*3.7;
+  right:  $universal*2.54;
+}
