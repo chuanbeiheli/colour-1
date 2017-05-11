@@ -1,3 +1,5 @@
-A Pen created at CodePen.io. You can find this one at http://codepen.io/YangforEvery/pen/rmGeNb.
 
- 
+This is a SCSS exercise.
+
+By This I created a visual perspective effect which can be seen. I also used
+some color code to make this more real.
